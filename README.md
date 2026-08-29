@@ -1,6 +1,6 @@
 # ME Homepage — สาขาวิชาวิศวกรรมเครื่องกล มรภ.นครสวรรค์
 
-**เว็บจริง: <https://krissanar.github.io/me-nsru/>**
+**เว็บจริง: <https://engnsru.github.io/me-nsru/>**
 
 Static site split out of the single-file export `export/index.html`
 (1.53 MB, everything inlined as base64).
@@ -181,7 +181,7 @@ workflow runs but nothing is served.
 
 ## Site URL
 
-The site is served from a subpath, `https://krissanar.github.io/me-nsru/`.
+The site is served from a subpath, `https://engnsru.github.io/me-nsru/`.
 Every internal link and asset reference is relative, so the subpath needs no
 `<base>` tag and nothing breaks — but three tags do carry the absolute URL and
 have to move together if the site ever changes address:
